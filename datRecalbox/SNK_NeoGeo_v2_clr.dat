@@ -1,8 +1,8 @@
 clrmamepro (
 	name "SNK - Neo Geo"
-	description "SNK - Neo Geo"
+	description "SNK - Neo Geo AES (Libretro Geolith)"
 	version "V2"
-	comment "Nombres de archivos equivalentes a nombres de roms."
+	comment "Recalbox 9.2"
 	author "fbonnemaison"
 )
 
@@ -14,12 +14,14 @@ game (
 )
 game (
 	name "2020bba"
+	cloneof "2020bb"
 	description "2020 Super Baseball (set 2)"
 	publisher "SNK / Pallas"
 	rom ( name "2020bba.neo" size 7081984 crc E9526781 )
 )
 game (
 	name "2020bbh"
+	cloneof "2020bb"
 	description "2020 Super Baseball (set 3)"
 	publisher "SNK / Pallas"
 	rom ( name "2020bbh.neo" size 7081984 crc 9143727F )
@@ -56,6 +58,7 @@ game (
 )
 game (
 	name "alpham2p"
+	cloneof "alpham2"
 	description "Alpha Mission II / ASO II - Last Guardian (prototype)"
 	publisher "SNK"
 	rom ( name "alpham2p.neo" size 9179136 crc AAB8F811 )
@@ -74,6 +77,7 @@ game (
 )
 game (
 	name "aof2a"
+	cloneof "aof2"
 	description "Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056)"
 	publisher "SNK"
 	rom ( name "aof2a.neo" size 23334912 crc C649E151 )
@@ -86,15 +90,16 @@ game (
 )
 game (
 	name "aof3k"
+	cloneof "aof3"
 	description "Art of Fighting 3 - The Path of the Warrior (Korean release)"
 	publisher "SNK"
 	rom ( name "aof3k.neo" size 39063552 crc 890A3F7A )
 )
 game (
-	name "aof3k"
+	name "aof3"
 	description "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden"
 	publisher "SNK"
-	rom ( name "aof3k.neo" size 39063552 crc 46B7EAC3 )
+	rom ( name "aof3.neo" size 39063552 crc 46B7EAC3 )
 )
 game (
 	name "bakatono"
@@ -122,6 +127,7 @@ game (
 )
 game (
 	name "bstarsh"
+	cloneof "bstars"
 	description "Baseball Stars Professional (NGH-002)"
 	publisher "SNK"
 	rom ( name "bstarsh.neo" size 6688768 crc 1FFF2E59 )
@@ -146,6 +152,7 @@ game (
 )
 game (
 	name "bjourneyh"
+	cloneof "bjourney"
 	description "Blue's Journey / Raguy (ALH-001)"
 	publisher "Alpha Denshi Co."
 	rom ( name "bjourneyh.neo" size 6557696 crc C552EA99 )
@@ -170,6 +177,7 @@ game (
 )
 game (
 	name "burningfh"
+	cloneof "burningf"
 	description "Burning Fight (NGH-018)(US)"
 	publisher "SNK"
 	rom ( name "burningfh.neo" size 7081984 crc ADCC7B7D )
@@ -182,18 +190,21 @@ game (
 )
 game (
 	name "burningfpa"
+	cloneof "burningf"
 	description "Burning Fight (prototype, near final, ver 23.3, 910326)"
 	publisher "SNK"
 	rom ( name "burningfpa.neo" size 7606272 crc B5DF2D4E )
 )
 game (
 	name "burningfpb"
+	cloneof "burningf"
 	description "Burning Fight (prototype, newer, V07)"
 	publisher "SNK"
 	rom ( name "burningfpb.neo" size 7606272 crc F208A832 )
 )
 game (
 	name "burningfp"
+	cloneof "burningf"
 	description "Burning Fight (prototype, older)"
 	publisher "SNK"
 	rom ( name "burningfp.neo" size 7081984 crc 8D3E9C7B )
