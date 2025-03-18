@@ -1,0 +1,1782 @@
+clrmamepro (
+	name "SNK - Neo Geo (Full)"
+	description "SNK - Neo Geo AES (Libretro Geolith)"
+	version "V2"
+	comment "Recalbox 9.2"
+	author "fbonnemaison"
+)
+
+game (
+	name "2020bb"
+	description "2020 Super Baseball (set 1)"
+	publisher "SNK / Pallas"
+	rom ( name "2020bb.neo" size 7081984 crc 8041AD52 )
+)
+game (
+	name "2020bba"
+	cloneof "2020bb"
+	description "2020 Super Baseball (set 2)"
+	publisher "SNK / Pallas"
+	rom ( name "2020bba.neo" size 7081984 crc E9526781 )
+)
+game (
+	name "2020bbh"
+	cloneof "2020bb"
+	description "2020 Super Baseball (set 3)"
+	publisher "SNK / Pallas"
+	rom ( name "2020bbh.neo" size 7081984 crc 9143727F )
+)
+game (
+	name "3countb"
+	description "3 Count Bout _ Fire Suplex (NGM-043)(NGH-043)"
+	publisher "SNK"
+	rom ( name "3countb.neo" size 13897728 crc 03BDC5A6 )
+)
+game (
+	name "sonicwi2"
+	description "Aero Fighters 2 / Sonic Wings 2"
+	publisher "Video System Co."
+	rom ( name "sonicwi2.neo" size 13897728 crc AC1851BB )
+)
+game (
+	name "sonicwi3"
+	description "Aero Fighters 3 / Sonic Wings 3"
+	publisher "Video System Co."
+	rom ( name "sonicwi3.neo" size 21237760 crc 10EDC4FF )
+)
+game (
+	name "aodk"
+	description "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)"
+	publisher "ADK / SNK"
+	rom ( name "aodk.neo" size 23334912 crc 8DCAFD3B )
+)
+game (
+	name "alpham2"
+	description "Alpha Mission II / ASO II - Last Guardian (NGM-007)(NGH-007)"
+	publisher "SNK"
+	rom ( name "alpham2.neo" size 6164480 crc D8CB49E9 )
+)
+game (
+	name "alpham2p"
+	cloneof "alpham2"
+	description "Alpha Mission II / ASO II - Last Guardian (prototype)"
+	publisher "SNK"
+	rom ( name "alpham2p.neo" size 9179136 crc AAB8F811 )
+)
+game (
+	name "androdun"
+	description "Andro Dunos (NGM-049)(NGH-049)"
+	publisher "Visco"
+	rom ( name "androdun.neo" size 4460544 crc 6AAED441 )
+)
+game (
+	name "aof"
+	description "Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044)"
+	publisher "SNK"
+	rom ( name "aof.neo" size 13373440 crc 02E281F9 )
+)
+game (
+	name "aof2a"
+	cloneof "aof2"
+	description "Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056)"
+	publisher "SNK"
+	rom ( name "aof2a.neo" size 23334912 crc C649E151 )
+)
+game (
+	name "aof2"
+	description "Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)"
+	publisher "SNK"
+	rom ( name "aof2.neo" size 23334912 crc BC3E4C20 )
+)
+game (
+	name "aof3k"
+	cloneof "aof3"
+	description "Art of Fighting 3 - The Path of the Warrior (Korean release)"
+	publisher "SNK"
+	rom ( name "aof3k.neo" size 39063552 crc 890A3F7A )
+)
+game (
+	name "aof3"
+	description "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden"
+	publisher "SNK"
+	rom ( name "aof3.neo" size 39063552 crc 46B7EAC3 )
+)
+game (
+	name "bakatono"
+	description "Bakatonosama Mahjong Manyuuki (MOM-002)(MOH-002)"
+	publisher "Monolith Corp."
+	rom ( name "bakatono.neo" size 7081984 crc 4E1ACD2B )
+)
+game (
+	name "b2b"
+	description "Bang Bang Busters (2010 NCI release)"
+	publisher "Visco"
+	rom ( name "b2b.neo" size 6033408 crc 5228FABA )
+)
+game (
+	name "bangbead"
+	description "Bang Bead"
+	publisher "Visco"
+	rom ( name "bangbead.neo" size 24383488 crc 0003BB08 )
+)
+game (
+	name "bstars2"
+	description "Baseball Stars 2"
+	publisher "SNK"
+	rom ( name "bstars2.neo" size 7606272 crc CEA02498 )
+)
+game (
+	name "bstarsh"
+	cloneof "bstars"
+	description "Baseball Stars Professional (NGH-002)"
+	publisher "SNK"
+	rom ( name "bstarsh.neo" size 6688768 crc 1FFF2E59 )
+)
+game (
+	name "bstars"
+	description "Baseball Stars Professional (NGM-002)"
+	publisher "SNK"
+	rom ( name "bstars.neo" size 6688768 crc 221E9FDB )
+)
+game (
+	name "flipshot"
+	description "Battle Flip Shot"
+	publisher "Visco"
+	rom ( name "flipshot.neo" size 7606272 crc E3D2D230 )
+)
+game (
+	name "blazstar"
+	description "Blazing Star"
+	publisher "Yumekobo"
+	rom ( name "blazstar.neo" size 45355008 crc 21AA3A79 )
+)
+game (
+	name "bjourneyh"
+	cloneof "bjourney"
+	description "Blue's Journey / Raguy (ALH-001)"
+	publisher "Alpha Denshi Co."
+	rom ( name "bjourneyh.neo" size 6557696 crc C552EA99 )
+)
+game (
+	name "bjourney"
+	description "Blue's Journey / Raguy (ALM-001)(ALH-001)"
+	publisher "Alpha Denshi Co."
+	rom ( name "bjourney.neo" size 7606272 crc 3D0805DE )
+)
+game (
+	name "breakrev"
+	description "Breakers Revenge"
+	publisher "Visco"
+	rom ( name "breakrev.neo" size 35917824 crc 0874FF8B )
+)
+game (
+	name "breakers"
+	description "Breakers"
+	publisher "Visco"
+	rom ( name "breakers.neo" size 27529216 crc E9E191F2 )
+)
+game (
+	name "burningfh"
+	cloneof "burningf"
+	description "Burning Fight (NGH-018)(US)"
+	publisher "SNK"
+	rom ( name "burningfh.neo" size 7081984 crc ADCC7B7D )
+)
+game (
+	name "burningf"
+	description "Burning Fight (NGM-018)(NGH-018)"
+	publisher "SNK"
+	rom ( name "burningf.neo" size 7081984 crc 62C88A2D )
+)
+game (
+	name "burningfpa"
+	cloneof "burningf"
+	description "Burning Fight (prototype, near final, ver 23.3, 910326)"
+	publisher "SNK"
+	rom ( name "burningfpa.neo" size 7606272 crc B5DF2D4E )
+)
+game (
+	name "burningfpb"
+	cloneof "burningf"
+	description "Burning Fight (prototype, newer, V07)"
+	publisher "SNK"
+	rom ( name "burningfpb.neo" size 7606272 crc F208A832 )
+)
+game (
+	name "burningfp"
+	cloneof "burningf"
+	description "Burning Fight (prototype, older)"
+	publisher "SNK"
+	rom ( name "burningfp.neo" size 7081984 crc 8D3E9C7B )
+)
+game (
+	name "ctomaday"
+	description "Captain Tomaday"
+	publisher "Visco"
+	rom ( name "ctomaday.neo" size 15994880 crc 0CE8E4F2 )
+)
+game (
+	name "marukodq"
+	description "Chibi Marukochan Deluxe Quiz"
+	publisher "Takara"
+	rom ( name "marukodq.neo" size 15994880 crc A725E249 )
+)
+game (
+	name "ironclad"
+	description "Choutetsu Brikin'ger - Iron Clad (prototype)"
+	publisher "Saurus"
+	rom ( name "ironclad.neo" size 23334912 crc E38554FB )
+)
+game (
+	name "ironclado"
+	cloneof "ironclad"
+	description "Choutetsu Brikin'ger - Iron Clad (prototype, bootleg)"
+	publisher "bootleg"
+	rom ( name "ironclado.neo" size 23334912 crc 300B920A )
+)
+game (
+	name "crsword"
+	description "Crossed Swords (ALM-002)(ALH-002)"
+	publisher "Alpha Denshi Co."
+	rom ( name "crsword.neo" size 6033408 crc 75FABD5D )
+)
+game (
+	name "crswd2bl"
+	description "Crossed Swords 2 (bootleg of CD version)"
+	publisher "bootleg (Razoola)"
+	rom ( name "crswd2bl.neo" size 12849152 crc 9ACFB8E5 )
+)
+game (
+	name "cthd2003"
+	description "Crouching Tiger Hidden Dragon 2003 (hack of The King of Fighters 2001)"
+	publisher "bootleg (Phenixsoft)"
+	rom ( name "cthd2003.neo" size 89395200 crc 62E9EF46 )
+)
+game (
+	name "ct2k3sp"
+	cloneof "ct2k3sa"
+	description "Crouching Tiger Hidden Dragon 2003 Super Plus (hack of The King of Fighters 2001)"
+	publisher "bootleg (Phenixsoft)"
+	rom ( name "ct2k3sp.neo" size 89526272 crc 060956CE )
+)
+game (
+	name "ct2k3sa"
+	description "Crouching Tiger Hidden Dragon 2003 Super Plus (hack of The King of Fighters 2001, alternate).neo"
+	publisher "bootleg (Phenixsoft)"
+	rom ( name "ct2k3sa.neo" size 89395200 crc 7E74BDF9 )
+)
+game (
+	name "cyberlip"
+	description "Cyber-Lip (NGM-010)"
+	publisher "SNK"
+	rom ( name "cyberlip.neo" size 6557696 crc D20D6A3E )
+)
+game (
+	name "diggerma"
+	description "Digger Man [Homebrew]"
+	publisher "Kyle Hodgetts"
+	rom ( name "diggerma.neo" size 2363392 crc 41581AE2 )
+)
+game (
+	name "doubledr"
+	description "Double Dragon (Neo-Geo)"
+	publisher "Technos Japan"
+	rom ( name "doubledr.neo" size 21237760 crc 5F92A3AA )
+)
+game (
+	name "dragonsh"
+	description "Dragon's Heaven (development board)"
+	publisher "Face"
+	rom ( name "dragonsh.neo" size 36966400 crc 1E3E2500 )
+)
+game (
+	name "eightman"
+	description "Eight Man (NGM-025)(NGH-025)"
+	publisher "SNK / Pallas"
+	rom ( name "eightman.neo" size 6033408 crc 843DCF30 )
+)
+game (
+	name "kabukikl"
+	description "Far East of Eden - Kabuki Klash _ Tengai Makyou - Shin Den"
+	publisher "Hudson"
+	rom ( name "kabukikl.neo" size 26480640 crc E5C7C02F )
+)
+game (
+	name "fatfury1"
+	description "Fatal Fury - King of Fighters _ Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)"
+	publisher "SNK"
+	rom ( name "fatfury1.neo" size 7213056 crc DABCC80B )
+)
+game (
+	name "fatfury2"
+	description "Fatal Fury 2 _ Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)"
+	publisher "SNK"
+	rom ( name "fatfury2.neo" size 13897728 crc 1A896E27 )
+)
+game (
+	name "fatfury3"
+	description "Fatal Fury 3 - Road to the Final Victory _ Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)"
+	publisher "SNK"
+	rom ( name "fatfury3.neo" size 34869248 crc D353EEED )
+)
+game (
+	name "fatfursp"
+	description "Fatal Fury Special _ Garou Densetsu Special (set 1)(NGM-058)(NGH-058)"
+	publisher "SNK"
+	rom ( name "fatfursp.neo" size 19664896 crc BECCEF57 )
+)
+game (
+	name "fatfurspa"
+	cloneof "fatfursp"
+	description "Fatal Fury Special _ Garou Densetsu Special (set 2)(NGM-058)(NGH-058)"
+	publisher "SNK"
+	rom ( name "fatfurspa.neo" size 19664896 crc E2F91CAC )
+)
+game (
+	name "fightfev"
+	description "Fight Fever (set 1)"
+	publisher "Viccom"
+	rom ( name "fightfev.neo" size 12849152 crc 8515503B )
+)
+game (
+	name "fightfeva"
+	cloneof "fightfev"
+	description "Fight Fever (set 2)"
+	publisher "Viccom"
+	rom ( name "fightfeva.neo" size 12849152 crc BABD8403 )
+)
+game (
+	name "fswords"
+	cloneof "samsho3"
+	description "Fighters Swords (Korean release of Samurai Shodown III)"
+	publisher "SNK"
+	rom ( name "fswords.neo" size 36966400 crc E6AA08C1 )
+)
+game (
+	name "fbfrenzy"
+	description "Football Frenzy (NGM-034)(NGH-034)"
+	publisher "SNK"
+	rom ( name "fbfrenzy.neo" size 6033408 crc 2DB33EC0 )
+)
+game (
+	name "galaxyfg"
+	description "Galaxy Fight - Universal Warriors"
+	publisher "Sunsoft"
+	rom ( name "galaxyfg.neo" size 22286336 crc EC905658 )
+)
+game (
+	name "ganryu"
+	description "Ganryu / Musashi Ganryuki"
+	publisher "Visco"
+	rom ( name "ganryu.neo" size 23334912 crc 382E661F )
+)
+game (
+	name "garoubl"
+	cloneof "garou"
+	description "Garou - Mark of the Wolves (bootleg)"
+	publisher "bootleg"
+	rom ( name "garoubl.neo" size 89788416 crc 2C3351E9 )
+)
+game (
+	name "garouha"
+	cloneof "garou"
+	description "Garou - Mark of the Wolves (NGH-2530)"
+	publisher "SNK"
+	rom ( name "garouha.neo" size 94113792 crc 9F96E440 )
+)
+game (
+	name "garouh"
+	cloneof "garou"
+	description "Garou - Mark of the Wolves (NGM-2530) (NGH-2530)"
+	publisher "SNK"
+	rom ( name "garouh.neo" size 94113792 crc BF2204C4 )
+)
+game (
+	name "garou"
+	description "Garou - Mark of the Wolves (NGM-2530)"
+	publisher "SNK"
+	rom ( name "garou.neo" size 94113792 crc 25D2E39E )
+)
+game (
+	name "garoup"
+	cloneof "garou"
+	description "Garou - Mark of the Wolves (prototype)"
+	publisher "SNK"
+	rom ( name "garoup.neo" size 89526272 crc 81275C80 )
+)
+game (
+	name "gpilotsh"
+	cloneof "gpilots"
+	description "Ghost Pilots (NGH-020)(US)"
+	publisher "SNK"
+	rom ( name "gpilotsh.neo" size 7213056 crc EEA2B267 )
+)
+game (
+	name "gpilots"
+	description "Ghost Pilots (NGM-020)(NGH-020)"
+	publisher "SNK"
+	rom ( name "gpilots.neo" size 7213056 crc AAD82C6C )
+)
+game (
+	name "gpilotsp"
+	cloneof "gpilots"
+	description "Ghost Pilots (prototype)"
+	publisher "SNK"
+	rom ( name "gpilotsp.neo" size 7606272 crc 3B16438B )
+)
+game (
+	name "ghostlop"
+	description "Ghostlop (prototype)"
+	publisher "Data East Corporation"
+	rom ( name "ghostlop.neo" size 11800576 crc ADAFD77A )
+)
+game (
+	name "goalx3"
+	description "Goal! Goal! Goal!"
+	publisher "Visco"
+	rom ( name "goalx3.neo" size 14946304 crc 1A3799D6 )
+)
+game (
+	name "gururin"
+	description "Gururin"
+	publisher "Face"
+	rom ( name "gururin.neo" size 5509120 crc 5C587362 )
+)
+game (
+	name "froman2b"
+	description "Idol Mahjong Final Romance 2 (Neo-Geo, bootleg of CD version)"
+	publisher "bootleg"
+	rom ( name "froman2b.neo" size 10227712 crc E7D57377 )
+)
+game (
+	name "janshin"
+	description "Jyanshin Densetsu - Quest of Jongmaster"
+	publisher "Aicom"
+	rom ( name "janshin.neo" size 7606272 crc C62AB999 )
+)
+game (
+	name "jockeygp"
+	description "Jockey Grand Prix (set 1)"
+	publisher "Sun Amusement / BrezzaSoft"
+	rom ( name "jockeygp.neo" size 20582400 crc 71DB01DD )
+)
+game (
+	name "jockeygpa"
+	cloneof "jockeygp"
+	description "Jockey Grand Prix (set 2)"
+	publisher "Sun Amusement / BrezzaSoft"
+	rom ( name "jockeygpa.neo" size 20582400 crc 23102F16 )
+)
+game (
+	name "karnovr"
+	description "Karnov's Revenge _ Fighter's History Dynamite"
+	publisher "Data East Corporation"
+	rom ( name "karnovr.neo" size 15994880 crc BE78C856 )
+)
+game (
+	name "kog"
+	description "King of Gladiator (The King of Fighters '97 bootleg)"
+	publisher "bootleg"
+	rom ( name "kog.neo" size 61083648 crc 890805A0 )
+)
+game (
+	name "kotm"
+	description "King of the Monsters (set 1)"
+	publisher "SNK"
+	rom ( name "kotm.neo" size 7213056 crc 03919498 )
+)
+game (
+	name "kotmh"
+	cloneof "kotm"
+	description "King of the Monsters (set 2)"
+	publisher "SNK"
+	rom ( name "kotmh.neo" size 7213056 crc A4C35BFD )
+)
+game (
+	name "kotm2"
+	description "King of the Monsters 2 - The Next Thing (NGM-039)(NGH-039)"
+	publisher "SNK"
+	rom ( name "kotm2.neo" size 10752000 crc 45D1EE0C )
+)
+game (
+	name "kotm2a"
+	cloneof "kotm2"
+	description "King of the Monsters 2 - The Next Thing (older)"
+	publisher "SNK"
+	rom ( name "kotm2a.neo" size 10752000 crc 8244FE15 )
+)
+game (
+	name "kotm2p"
+	cloneof "kotm2"
+	description "King of the Monsters 2 - The Next Thing (prototype)"
+	publisher "SNK"
+	rom ( name "kotm2p.neo" size 10752000 crc 2589D82E )
+)
+game (
+	name "kizuna"
+	description "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle"
+	publisher "SNK"
+	rom ( name "kizuna.neo" size 40112128 crc 4A93EF82 )
+)
+game (
+	name "lans2004"
+	description "Lansquenet 2004 (Shock Troopers - 2nd Squad bootleg)"
+	publisher "bootleg"
+	rom ( name "lans2004.neo" size 67375104 crc F0BDEB60 )
+)
+game (
+	name "lasthope"
+	description "Last Hope (bootleg AES to MVS conversion, no coin support)"
+	publisher "NG:DEV.TEAM"
+	rom ( name "lasthope.neo" size 24317952 crc 16C6AE63 )
+)
+game (
+	name "lresortp"
+	cloneof "lresort"
+	description "Last Resort (prototype)"
+	publisher "SNK"
+	rom ( name "lresortp.neo" size 7606272 crc C41B32C3 )
+)
+game (
+	name "lresort"
+	description "Last Resort"
+	publisher "SNK"
+	rom ( name "lresort.neo" size 6033408 crc 6738AEB0 )
+)
+game (
+	name "lbowling"
+	description "League Bowling (NGM-019)(NGH-019)"
+	publisher "SNK"
+	rom ( name "lbowling.neo" size 3411968 crc 7222C3CE )
+)
+game (
+	name "legendos"
+	description "Legend of Success Joe _ Ashitano Joe Densetsu"
+	publisher "SNK / Wave"
+	rom ( name "legendos.neo" size 6033408 crc 67F65C54 )
+)
+game (
+	name "magdrop2"
+	description "Magical Drop II"
+	publisher "Data East Corporation"
+	rom ( name "magdrop2.neo" size 11276288 crc FD5D3E9A )
+)
+game (
+	name "magdrop3"
+	description "Magical Drop III"
+	publisher "Data East Corporation"
+	rom ( name "magdrop3.neo" size 22810624 crc 7BF1A9B0 )
+)
+game (
+	name "maglordh"
+	cloneof "maglord"
+	description "Magician Lord (NGH-005)"
+	publisher "Alpha Denshi Co."
+	rom ( name "maglordh.neo" size 5640192 crc F2D54371 )
+)
+game (
+	name "maglord"
+	description "Magician Lord (NGM-005)"
+	publisher "Alpha Denshi Co."
+	rom ( name "maglord.neo" size 5640192 crc 11971FBF )
+)
+game (
+	name "mahretsu"
+	description "Mahjong Kyo Retsuden (NGM-004)(NGH-004)"
+	publisher "SNK"
+	rom ( name "mahretsu.neo" size 5509120 crc 18309421 )
+)
+game (
+	name "matrimbl"
+	cloneof "matrim"
+	description "Matrimelee _ Shin Gouketsuji Ichizoku Toukon (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "matrimbl.neo" size 89788416 crc 96DE3019 )
+)
+game (
+	name "matrim"
+	description "Matrimelee _ Shin Gouketsuji Ichizoku Toukon (NGM-2660) (NGH-2660)"
+	publisher "Noise Factory / Atlus"
+	rom ( name "matrim.neo" size 89788416 crc B09A3C96 )
+)
+game (
+	name "mslug"
+	description "Metal Slug - Super Vehicle-001"
+	publisher "Nazca"
+	rom ( name "mslug.neo" size 27529216 crc 05BE3849 )
+)
+game (
+	name "mslug2"
+	description "Metal Slug 2 - Super Vehicle-001_II (NGM-2410) (NGH-2410)"
+	publisher "SNK"
+	rom ( name "mslug2.neo" size 45355008 crc AC0AA8EF )
+)
+game (
+	name "mslug2t"
+	cloneof "mslug2"
+	description "Metal Slug 2 Turbo (NGM-9410) (hack)"
+	publisher "hack (trap15)"
+	rom ( name "mslug2t.neo" size 45355008 crc 2056E958 )
+)
+game (
+	name "mslug3h"
+	cloneof "mslug3"
+	description "Metal Slug 3 (NGH-2560)"
+	publisher "SNK"
+	rom ( name "mslug3h.neo" size 90181632 crc 24B483C3 )
+)
+game (
+	name "mslug3"
+	description "Metal Slug 3 (NGM-2560)"
+	publisher "SNK"
+	rom ( name "mslug3.neo" size 94375936 crc 296F41B1 )
+)
+game (
+	name "mslug3a"
+	cloneof "mslug3"
+	description "Metal Slug 3 (NGM-2560, earlier)"
+	publisher "SNK"
+	rom ( name "mslug3a.neo" size 94375936 crc 4D42CAF5 )
+)
+game (
+	name "mslug4h"
+	cloneof "mslug4"
+	description "Metal Slug 4 (NGH-2630)"
+	publisher "Mega / Noise Factory / Playmore"
+	rom ( name "mslug4h.neo" size 73011200 crc 9A041B23 )
+)
+game (
+	name "mslug4"
+	description "Metal Slug 4 (NGM-2630)"
+	publisher "Mega / Noise Factory / Playmore"
+	rom ( name "mslug4.neo" size 73011200 crc 80822177 )
+)
+game (
+	name "ms4plus"
+	description "Metal Slug 4 Plus (bootleg)"
+	publisher "bootleg"
+	rom ( name "ms4plus.neo" size 72617984 crc 9AEC5792 )
+)
+game (
+	name "mslug5b"
+	cloneof "mslug5"
+	description "Metal Slug 5 (bootleg, set 1)"
+	publisher "bootleg"
+	rom ( name "mslug5b.neo" size 89395200 crc 5D1F010C )
+)
+game (
+	name "mslug5h"
+	cloneof "mslug5"
+	description "Metal Slug 5 (NGH-2680)"
+	publisher "SNK Playmore"
+	rom ( name "mslug5h.neo" size 92934144 crc BA52E48D )
+)
+game (
+	name "mslug5"
+	description "Metal Slug 5 (NGM-2680)"
+	publisher "SNK Playmore"
+	rom ( name "mslug5.neo" size 92934144 crc 11E4F258 )
+)
+game (
+	name "ms5plus"
+	description "Metal Slug 5 Plus (bootleg)"
+	publisher "bootleg"
+	rom ( name "ms5plus.neo" size 89788416 crc 0271C9C4 )
+)
+game (
+	name "mslug3b6"
+	cloneof "mslug3"
+	description "Metal Slug 6 (bootleg of Metal Slug 3)"
+	publisher "bootleg"
+	rom ( name "mslug3b6.neo" size 89788416 crc F70D50CB )
+)
+game (
+	name "mslugx"
+	description "Metal Slug X - Super Vehicle-001 (NGM-2500)(NGH-2500)"
+	publisher "SNK"
+	rom ( name "mslugx.neo" size 66326528 crc FDC65A72 )
+)
+game (
+	name "minasan"
+	description "Minasanno Okagesamadesu! Daisugorokutaikai (MOM-001)(MOH-001)"
+	publisher "Monolith Corp."
+	rom ( name "minasan.neo" size 7081984 crc FA5F4DE4 )
+)
+game (
+	name "miexchng"
+	description "Money Puzzle Exchanger / Money Idol Exchanger"
+	publisher "Face"
+	rom ( name "miexchng.neo" size 11276288 crc 7EDFBB25 )
+)
+game (
+	name "mutnat"
+	description "Mutation Nation (NGM-014)(NGH-014)"
+	publisher "SNK"
+	rom ( name "mutnat.neo" size 7081984 crc 100027FA )
+)
+game (
+	name "nam1975"
+	description "NAM-1975 (NGM-001)(NGH-001)"
+	publisher "SNK"
+	rom ( name "nam1975.neo" size 6164480 crc 338F2DEE )
+)
+game (
+	name "neobombe"
+	description "Neo Bomberman"
+	publisher "Hudson"
+	rom ( name "neobombe.neo" size 17043456 crc 452609D6 )
+)
+game (
+	name "neodrift"
+	description "Neo Drift Out - New Technology"
+	publisher "Visco"
+	rom ( name "neodrift.neo" size 14946304 crc F2063AFC )
+)
+game (
+	name "neomrdo"
+	description "Neo Mr. Do!"
+	publisher "Visco"
+	rom ( name "neomrdo.neo" size 7606272 crc 6AB90D70 )
+)
+game (
+	name "turfmast"
+	description "Neo Turf Masters / Big Tournament Golf"
+	publisher "Nazca"
+	rom ( name "turfmast.neo" size 19140608 crc F00C2138 )
+)
+game (
+	name "neocup98"
+	description "Neo-Geo Cup '98 - The Road to the Victory"
+	publisher "SNK"
+	rom ( name "neocup98.neo" size 25432064 crc 3896F2D9 )
+)
+game (
+	name "nitdbl"
+	cloneof "nitd"
+	description "Nightmare in the Dark (bootleg)"
+	publisher "bootleg"
+	rom ( name "nitdbl.neo" size 13766656 crc ED62A567 )
+)
+game (
+	name "nitd"
+	description "Nightmare in the Dark"
+	publisher "Eleven / Gavaking"
+	rom ( name "nitd.neo" size 22155264 crc 42CE8908 )
+)
+game (
+	name "ncombath"
+	cloneof "ncombat"
+	description "Ninja Combat (NGH-009)"
+	publisher "Alpha Denshi Co."
+	rom ( name "ncombath.neo" size 6033408 crc 00A23C2A )
+)
+game (
+	name "ncombat"
+	description "Ninja Combat (NGM-009)"
+	publisher "Alpha Denshi Co."
+	rom ( name "ncombat.neo" size 6033408 crc 75D42338 )
+)
+game (
+	name "ncommand"
+	description "Ninja Commando"
+	publisher "Alpha Denshi Co."
+	rom ( name "ncommand.neo" size 7081984 crc 817DB341 )
+)
+game (
+	name "ninjamas"
+	description "Ninja Master's - Haoh-ninpo-cho"
+	publisher "ADK / SNK"
+	rom ( name "ninjamas.neo" size 43257856 crc 6C043356 )
+)
+game (
+	name "overtop"
+	description "Over Top"
+	publisher "ADK"
+	rom ( name "overtop.neo" size 27529216 crc 935C39EA )
+)
+game (
+	name "samsho4k"
+	cloneof "samsho4"
+	description "Pae Wang Jeon Seol / Legend of a Warrior (Korean censored Samurai Shodown IV)"
+	publisher "SNK"
+	rom ( name "samsho4k.neo" size 49549312 crc 9642929C )
+)
+game (
+	name "panicbom"
+	description "Panic Bomber"
+	publisher "Eighting / Hudson"
+	rom ( name "panicbom.neo" size 6033408 crc C7799F9D )
+)
+game (
+	name "pgoal"
+	description "Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)"
+	publisher "Saurus"
+	rom ( name "pgoal.neo" size 19140608 crc 463FE2BC )
+)
+game (
+	name "pnyaaa"
+	cloneof "pnyaa"
+	description "Pochi and Nyaa (Ver 2.00)"
+	publisher "Aiky / Taito"
+	rom ( name "pnyaaa.neo" size 22679552 crc AEA780C7 )
+)
+game (
+	name "pnyaa"
+	description "Pochi and Nyaa (Ver 2.02)"
+	publisher "Aiky / Taito"
+	rom ( name "pnyaa.neo" size 22679552 crc 9A371AE5 )
+)
+game (
+	name "popbounc"
+	description "Pop 'n Bounce / Gapporin"
+	publisher "Video System Co."
+	rom ( name "popbounc.neo" size 7606272 crc 30C2F23F )
+)
+game (
+	name "pspikes2"
+	description "Power Spikes II (NGM-068)"
+	publisher "Video System Co."
+	rom ( name "pspikes2.neo" size 10752000 crc 7E6BB2EB )
+)
+game (
+	name "preisle2"
+	description "Prehistoric Isle 2"
+	publisher "Yumekobo / Saurus"
+	rom ( name "preisle2.neo" size 62132224 crc 2734D1BE )
+)
+game (
+	name "pulstar"
+	description "Pulstar"
+	publisher "Aicom"
+	rom ( name "pulstar.neo" size 41160704 crc 71D34714 )
+)
+game (
+	name "pbobblenb"
+	cloneof "pbobblen"
+	description "Puzzle Bobble _ Bust-A-Move (Neo-Geo) (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "pbobblenb.neo" size 9703424 crc 54FA6513 )
+)
+game (
+	name "pbobblen"
+	description "Puzzle Bobble _ Bust-A-Move (Neo-Geo) (NGM-083)"
+	publisher "Taito"
+	rom ( name "pbobblen.neo" size 9703424 crc 71619B37 )
+)
+game (
+	name "pbobbl2n"
+	description "Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)"
+	publisher "Taito (SNK license)"
+	rom ( name "pbobbl2n.neo" size 20189184 crc 1710150C )
+)
+game (
+	name "puzzldpr"
+	description "Puzzle De Pon! R!"
+	publisher "Visco"
+	rom ( name "puzzldpr.neo" size 3411968 crc A7EA0A8A )
+)
+game (
+	name "puzzledp"
+	description "Puzzle De Pon!"
+	publisher "Visco"
+	rom ( name "puzzledp.neo" size 3411968 crc 9610638A )
+)
+game (
+	name "joyjoy"
+	description "Puzzled / Joy Joy Kid (NGM-021)(NGH-021)"
+	publisher "SNK"
+	rom ( name "joyjoy.neo" size 3018752 crc 2C368D6A )
+)
+game (
+	name "quizdais"
+	description "Quiz Daisousa Sen - The Last Count Down (NGM-023)(NGH-023)"
+	publisher "SNK"
+	rom ( name "quizdais.neo" size 4460544 crc 483B8670 )
+)
+game (
+	name "quizkofk"
+	cloneof "quizkof"
+	description "Quiz King of Fighters (Korea)"
+	publisher "Saurus / Viccom (SNK license)"
+	rom ( name "quizkofk.neo" size 15994880 crc F660F0D9 )
+)
+game (
+	name "quizkof"
+	description "Quiz King of Fighters (SAM-080)(SAH-080)"
+	publisher "Saurus (SNK license)"
+	rom ( name "quizkof.neo" size 15994880 crc 0603F66D )
+)
+game (
+	name "quizdai2"
+	description "Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 (NGM-042)(NGH-042)"
+	publisher "SNK"
+	rom ( name "quizdai2.neo" size 6557696 crc BD15B7A1 )
+)
+game (
+	name "quizdaisk"
+	cloneof "quizdais"
+	description "Quiz Salibtamjeong - The Last Count Down (Korean localized Quiz Daisousa Sen)"
+	publisher "SNK / Viccom"
+	rom ( name "quizdaisk.neo" size 5509120 crc D0C614A0 )
+)
+game (
+	name "rotdh"
+	cloneof "rotd"
+	description "Rage of the Dragons (NGM-264_)"
+	publisher "Evoga / Playmore"
+	rom ( name "rotdh.neo" size 87298048 crc ECF6A9F7 )
+)
+game (
+	name "rotd"
+	description "Rage of the Dragons (NGM-2640)"
+	publisher "Evoga / Playmore"
+	rom ( name "rotd.neo" size 92540928 crc 29AE65FD )
+)
+game (
+	name "ragnagrd"
+	description "Ragnagard / Shin-Oh-Ken"
+	publisher "Saurus"
+	rom ( name "ragnagrd.neo" size 44306432 crc 8C08477B )
+)
+game (
+	name "rbff1a"
+	cloneof "rbff1"
+	description "Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision)"
+	publisher "SNK"
+	rom ( name "rbff1a.neo" size 45355008 crc EC8B37F0 )
+)
+game (
+	name "rbff1k"
+	cloneof "rbff1"
+	description "Real Bout Fatal Fury / Real Bout Garou Densetsu (Korean release)"
+	publisher "SNK"
+	rom ( name "rbff1k.neo" size 45355008 crc BF5B4349 )
+)
+game (
+	name "rbff1ka"
+	cloneof "rbff1"
+	description "Real Bout Fatal Fury / Real Bout Garou Densetsu (Korean release, bug fix revision)"
+	publisher "SNK"
+	rom ( name "rbff1ka.neo" size 45355008 crc 40EB7054 )
+)
+game (
+	name "rbff1"
+	description "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)"
+	publisher "SNK"
+	rom ( name "rbff1.neo" size 45355008 crc 9DE2BC23 )
+)
+game (
+	name "rbff2k"
+	cloneof "rbff2"
+	description "Real Bout Fatal Fury 2 - The Newcomers (Korean release)"
+	publisher "SNK"
+	rom ( name "rbff2k.neo" size 70651904 crc D23D0173 )
+)
+game (
+	name "rbff2h"
+	cloneof "rbff2"
+	description "Real Bout Fatal Fury 2 - The Newcomers _ Real Bout Garou Densetsu 2 - the newcomers (NGH-2400)"
+	publisher "SNK"
+	rom ( name "rbff2h.neo" size 70651904 crc FC3BE0DE )
+)
+game (
+	name "rbff2"
+	description "Real Bout Fatal Fury 2 - The Newcomers _ Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)"
+	publisher "SNK"
+	rom ( name "rbff2.neo" size 70651904 crc 5BA5AA03 )
+)
+game (
+	name "rbffspeck"
+	cloneof "rbffspec"
+	description "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special (Korean release)"
+	publisher "SNK"
+	rom ( name "rbffspeck.neo" size 51646464 crc DA1E9521 )
+)
+game (
+	name "rbffspec"
+	description "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special"
+	publisher "SNK"
+	rom ( name "rbffspec.neo" size 51646464 crc 60F8FCF8 )
+)
+game (
+	name "ridhero"
+	description "Riding Hero (NGM-006)(NGH-006)"
+	publisher "SNK"
+	rom ( name "ridhero.neo" size 6164480 crc 4221F383 )
+)
+game (
+	name "ridheroh"
+	cloneof "ridhero"
+	description "Riding Hero (set 2)"
+	publisher "SNK"
+	rom ( name "ridheroh.neo" size 6164480 crc 17184BAF )
+)
+game (
+	name "roboarmya"
+	cloneof "roboarmy"
+	description "Robo Army (NGM-032)(NGH-032)"
+	publisher "SNK"
+	rom ( name "roboarmya.neo" size 6033408 crc 77923E2D )
+)
+game (
+	name "roboarmy"
+	description "Robo Army (set 1)"
+	publisher "SNK"
+	rom ( name "roboarmy.neo" size 6033408 crc 23B6CAAF )
+)
+game (
+	name "samshoh"
+	cloneof "samsho"
+	description "Samurai Shodown / Samurai Spirits (NGH-045)"
+	publisher "SNK"
+	rom ( name "samshoh.neo" size 15470592 crc 20519852 )
+)
+game (
+	name "samsho"
+	description "Samurai Shodown / Samurai Spirits (NGM-045)"
+	publisher "SNK"
+	rom ( name "samsho.neo" size 17043456 crc 12CC6BF3 )
+)
+game (
+	name "samsho2"
+	description "Samurai Shodown II _ Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)"
+	publisher "SNK"
+	rom ( name "samsho2.neo" size 26480640 crc 9208E903 )
+)
+game (
+	name "samsho3h"
+	cloneof "samsho3"
+	description "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGH-087)"
+	publisher "SNK"
+	rom ( name "samsho3h.neo" size 36966400 crc B738594D )
+)
+game (
+	name "samsho3"
+	description "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)"
+	publisher "SNK"
+	rom ( name "samsho3.neo" size 36966400 crc 2BF539CF )
+)
+game (
+	name "samsho4"
+	description "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)"
+	publisher "SNK"
+	rom ( name "samsho4.neo" size 49549312 crc D6D86CD8 )
+)
+game (
+	name "samsho5b"
+	cloneof "samsho5"
+	description "Samurai Shodown V _ Samurai Spirits Zero (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "samsho5b.neo" size 92540928 crc A9664CDE )
+)
+game (
+	name "samsho5h"
+	cloneof "samsho5"
+	description "Samurai Shodown V / Samurai Spirits Zero (NGH-2700)"
+	publisher "Yuki Enterprise / SNK Playmore"
+	rom ( name "samsho5h.neo" size 92934144 crc BF03BC84 )
+)
+game (
+	name "samsho5"
+	description "Samurai Shodown V / Samurai Spirits Zero (NGM-2700, set 1)"
+	publisher "Yuki Enterprise / SNK Playmore"
+	rom ( name "samsho5.neo" size 92934144 crc 0D34DDE4 )
+)
+game (
+	name "samsho5a"
+	cloneof "samsho5"
+	description "Samurai Shodown V / Samurai Spirits Zero (NGM-2700, set 2)"
+	publisher "Yuki Enterprise / SNK Playmore"
+	rom ( name "samsho5a.neo" size 92934144 crc 8A08119E )
+)
+game (
+	name "samsh5spho"
+	cloneof "samsh5sp"
+	description "Samurai Shodown V Special _ Samurai Spirits Zero Special (NGH-2720) (1st release, censored)"
+	publisher "Yuki Enterprise / SNK Playmore"
+	rom ( name "samsh5spho.neo" size 92934144 crc F649DAC3 )
+)
+game (
+	name "samsh5sph"
+	cloneof "samsh5sp"
+	description "Samurai Shodown V Special _ Samurai Spirits Zero Special (NGH-2720) (2nd release, less censored)"
+	publisher "Yuki Enterprise / SNK Playmore"
+	rom ( name "samsh5sph.neo" size 92934144 crc 9FEBE986 )
+)
+game (
+	name "samsh5sp"
+	description "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)"
+	publisher "Yuki Enterprise / SNK Playmore"
+	rom ( name "samsh5sp.neo" size 92934144 crc D06D508C )
+)
+game (
+	name "samsho2k"
+	cloneof "samsho2"
+	description "Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 1)"
+	publisher "SNK"
+	rom ( name "samsho2k.neo" size 26480640 crc 800C26B1 )
+)
+game (
+	name "samsho2ka"
+	cloneof "samsho2"
+	description "Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 2)"
+	publisher "SNK"
+	rom ( name "samsho2ka.neo" size 26480640 crc 8BA0DB81 )
+)
+game (
+	name "savagereb"
+	description "Savage Reign / Fu'un Mokushiroku - Kakutou Sousei"
+	publisher "Yumeji, Dodowang[EGCG]"
+	rom ( name "savagereb.neo" size 25432064 crc 68964A13 )
+)
+game (
+	name "sbp"
+	description "Super Bubble Pop (prototype)"
+	publisher "????"
+	rom ( name "sbp.neo" size 13766656 crc 346AFD7F )
+)
+game (
+	name "sengokuh"
+	cloneof "sengoku"
+	description "Sengoku / Sengoku Denshou (NGH-017, US)"
+	publisher "SNK"
+	rom ( name "sengokuh.neo" size 7213056 crc DBCEDE61 )
+)
+game (
+	name "sengoku"
+	description "Sengoku / Sengoku Denshou (NGM-017)(NGH-017)"
+	publisher "SNK"
+	rom ( name "sengoku.neo" size 7213056 crc 5C7B047B )
+)
+game (
+	name "sengoku2"
+	description "Sengoku 2 / Sengoku Denshou 2"
+	publisher "SNK"
+	rom ( name "sengoku2.neo" size 10752000 crc E48C07D0 )
+)
+game (
+	name "sengoku3"
+	description "Sengoku 3 / Sengoku Densho 2001 (set 1)"
+	publisher "Noise Factory / SNK"
+	rom ( name "sengoku3.neo" size 50991104 crc 311A9AD5 )
+)
+game (
+	name "sengoku3a"
+	cloneof "sengoku3"
+	description "Sengoku 3 / Sengoku Densho 2001 (set 2)"
+	publisher "Noise Factory / SNK"
+	rom ( name "sengoku3a.neo" size 50991104 crc 207C2770 )
+)
+game (
+	name "shocktro"
+	description "Shock Troopers (set 1)"
+	publisher "Saurus"
+	rom ( name "shocktro.neo" size 45355008 crc 7E919117 )
+)
+game (
+	name "shocktroa"
+	cloneof "shocktro"
+	description "Shock Troopers (set 2)"
+	publisher "Saurus"
+	rom ( name "shocktroa.neo" size 45355008 crc DC4EDBE3 )
+)
+game (
+	name "shocktr2"
+	description "Shock Troopers - 2nd Squad"
+	publisher "Saurus"
+	rom ( name "shocktr2.neo" size 66326528 crc 1438E16F )
+)
+game (
+	name "moshougi"
+	description "Syougi No Tatsujin - Master of Syougi"
+	publisher "ADK / SNK"
+	rom ( name "moshougi.neo" size 7606272 crc 71112101 )
+)
+game (
+	name "svcboot"
+	cloneof "svc"
+	description "SNK vs. Capcom - SVC Chaos (bootleg)"
+	publisher "bootleg"
+	rom ( name "svcboot.neo" size 92540928 crc 83EE63A1 )
+)
+game (
+	name "svc"
+	description "SNK vs. Capcom - SVC Chaos (NGM-2690)(NGH-2690)"
+	publisher "Playmore / Capcom"
+	rom ( name "svc.neo" size 93327360 crc 7376FC43 )
+)
+game (
+	name "svcplus"
+	cloneof "svc"
+	description "SNK vs. Capcom - SVC Chaos Plus (bootleg set 1) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "svcplus.neo" size 90443776 crc 83A48E6B )
+)
+game (
+	name "svcplusa"
+	cloneof "svc"
+	description "SNK vs. Capcom - SVC Chaos Plus (bootleg set 2) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "svcplusa.neo" size 90443776 crc E06D4DA4 )
+)
+game (
+	name "svcsplus"
+	cloneof "svc"
+	description "SNK vs. Capcom - SVC Chaos Super Plus (bootleg)"
+	publisher "bootleg"
+	rom ( name "svcsplus.neo" size 92540928 crc 30E60A48 )
+)
+game (
+	name "socbrawlh"
+	cloneof "socbrawl"
+	description "Soccer Brawl (NGH-031)"
+	publisher "SNK"
+	rom ( name "socbrawlh.neo" size 6033408 crc 02D3B361 )
+)
+game (
+	name "socbrawl"
+	description "Soccer Brawl (NGM-031)"
+	publisher "SNK"
+	rom ( name "socbrawl.neo" size 6033408 crc 2EA06384 )
+)
+game (
+	name "spinmast"
+	description "Spin Master / Miracle Adventure"
+	publisher "Data East Corporation"
+	rom ( name "spinmast.neo" size 11800576 crc 6C76C571 )
+)
+game (
+	name "stakwin"
+	description "Stakes Winner _ Stakes Winner - GI kinzen seiha e no michi"
+	publisher "Saurus"
+	rom ( name "stakwin.neo" size 12849152 crc FB42BEA3 )
+)
+game (
+	name "stakwin2"
+	description "Stakes Winner 2"
+	publisher "Saurus"
+	rom ( name "stakwin2.neo" size 23334912 crc 9C791C8C )
+)
+game (
+	name "strhoop"
+	description "Street Hoop _ Street Slam _ Dunk Dream (DEM-004) (DEH-004)"
+	publisher "Data East Corporation"
+	rom ( name "strhoop.neo" size 12849152 crc FA3F7EE1 )
+)
+game (
+	name "s1945p"
+	description "Strikers 1945 Plus"
+	publisher "Psikyo"
+	rom ( name "s1945p.neo" size 89395200 crc A5F8886E )
+)
+game (
+	name "sdodgebh"
+	description "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu"
+	publisher "hack"
+	rom ( name "sdodgebh.neo" size 19140608 crc 04E50958 )
+)
+game (
+	name "ssideki"
+	description "Super Sidekicks / Tokuten Ou"
+	publisher "SNK"
+	rom ( name "ssideki.neo" size 9179136 crc 99B48CBD )
+)
+game (
+	name "ssideki2"
+	description "Super Sidekicks 2 - The World Championship _ Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)"
+	publisher "SNK"
+	rom ( name "ssideki2.neo" size 13897728 crc 51744243 )
+)
+game (
+	name "ssideki3"
+	description "Super Sidekicks 3 - The Next Glory _ Tokuten Ou 3 - eikou e no michi"
+	publisher "SNK"
+	rom ( name "ssideki3.neo" size 21237760 crc 68B96364 )
+)
+game (
+	name "twsoc96"
+	description "Tecmo World Soccer '96"
+	publisher "Tecmo"
+	rom ( name "twsoc96.neo" size 15994880 crc DD9C0ACF )
+)
+game (
+	name "irrmaze"
+	description "The Irritating Maze / Ultra Denryu Iraira Bou"
+	publisher "SNK / Saurus"
+	rom ( name "irrmaze.neo" size 13897728 crc C03D0EC0 )
+)
+game (
+	name "kof94"
+	description "The King of Fighters '94 (NGM-055)(NGH-055)"
+	publisher "SNK"
+	rom ( name "kof94.neo" size 25432064 crc 1DE3C0CB )
+)
+game (
+	name "kof95h"
+	cloneof "kof95"
+	description "The King of Fighters '95 (NGH-084)"
+	publisher "SNK"
+	rom ( name "kof95h.neo" size 39063552 crc A2B60B1D )
+)
+game (
+	name "kof95"
+	description "The King of Fighters '95 (NGM-084)"
+	publisher "SNK"
+	rom ( name "kof95.neo" size 39063552 crc 161C3F78 )
+)
+game (
+	name "kof95a"
+	cloneof "kof95"
+	description "The King of Fighters '95 (NGH-084, alternate board)"
+	publisher "SNK"
+	rom ( name "kof95a.neo" size 39063552 crc 74FAD1B2 )
+)
+game (
+	name "kof96h"
+	cloneof "kof96"
+	description "The King of Fighters '96 (NGH-214)"
+	publisher "SNK"
+	rom ( name "kof96h.neo" size 47452160 crc 1BE5EF6E )
+)
+game (
+	name "kof96"
+	description "The King of Fighters '96 (NGM-214)"
+	publisher "SNK"
+	rom ( name "kof96.neo" size 47452160 crc E54B8545 )
+)
+game (
+	name "kof97k"
+	cloneof "kof97"
+	description "The King of Fighters '97 (Korean release)"
+	publisher "SNK"
+	rom ( name "kof97k.neo" size 60035072 crc 4C007242 )
+)
+game (
+	name "kof97h"
+	cloneof "kof97"
+	description "The King of Fighters '97 (NGH-2320)"
+	publisher "SNK"
+	rom ( name "kof97h.neo" size 60035072 crc F04F9DC7 )
+)
+game (
+	name "kof97"
+	description "The King of Fighters '97 (NGM-2320)"
+	publisher "SNK"
+	rom ( name "kof97.neo" size 60035072 crc BEF7053F )
+)
+game (
+	name "kof97oro"
+	cloneof "kof97"
+	description "The King of Fighters '97 Chongchu Jianghu Plus 2003 (bootleg, set 1)"
+	publisher "bootleg"
+	rom ( name "kof97oro.neo" size 60035072 crc 7E41756C )
+)
+game (
+	name "kof97pls"
+	cloneof "kof97"
+	description "The King of Fighters '97 Plus (bootleg)"
+	publisher "bootleg"
+	rom ( name "kof97pls.neo" size 60035072 crc 8CA84974 )
+)
+game (
+	name "kof98k"
+	cloneof "kof98"
+	description "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - dream match never ends (Korean board, set 1)"
+	publisher "SNK"
+	rom ( name "kof98k.neo" size 90574848 crc 79034090 )
+)
+game (
+	name "kof98ka"
+	cloneof "kof98"
+	description "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - dream match never ends (Korean board, set 2)"
+	publisher "SNK"
+	rom ( name "kof98ka.neo" size 90574848 crc F90C3AC7 )
+)
+game (
+	name "kof98h"
+	cloneof "kof98"
+	description "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - dream match never ends (NGH-2420)"
+	publisher "SNK"
+	rom ( name "kof98h.neo" size 89526272 crc B5ADD56B )
+)
+game (
+	name "kof98"
+	description "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - Dream Match Never Ends (NGM-2420)"
+	publisher "SNK"
+	rom ( name "kof98.neo" size 90574848 crc 7937A3B5 )
+)
+game (
+	name "kof98a"
+	cloneof "kof98"
+	description "The King of Fighters '98 - The Slugfest _ King of Fighters '98 - Dream Match Never Ends (NGM-2420, alt board)"
+	publisher "SNK"
+	rom ( name "kof98a.neo" size 90574848 crc 097F43F3 )
+)
+game (
+	name "kof99e"
+	cloneof "kof99"
+	description "The King of Fighters '99 - Millennium Battle (earlier)"
+	publisher "SNK"
+	rom ( name "kof99e.neo" size 91492352 crc A340318C )
+)
+game (
+	name "kof99k"
+	cloneof "kof99"
+	description "The King of Fighters '99 - Millennium Battle (Korean release)"
+	publisher "SNK"
+	rom ( name "kof99k.neo" size 91492352 crc BEBDEF97 )
+)
+game (
+	name "kof99ka"
+	cloneof "kof99"
+	description "The King of Fighters '99 - Millennium Battle (Korean release, non-encrypted program)"
+	publisher "SNK"
+	rom ( name "kof99ka.neo" size 87298048 crc E683D204 )
+)
+game (
+	name "kof99h"
+	cloneof "kof99"
+	description "The King of Fighters '99 - Millennium Battle (NGH-2510)"
+	publisher "SNK"
+	rom ( name "kof99h.neo" size 91492352 crc 7068D605 )
+)
+game (
+	name "kof99"
+	description "The King of Fighters '99 - Millennium Battle (NGM-2510)"
+	publisher "SNK"
+	rom ( name "kof99.neo" size 91492352 crc 0FA6C82C )
+)
+game (
+	name "kof99p"
+	cloneof "kof99"
+	description "The King of Fighters '99 - Millennium Battle (prototype)"
+	publisher "SNK"
+	rom ( name "kof99p.neo" size 87298048 crc F256C4EC )
+)
+game (
+	name "kof10th"
+	description "The King of Fighters 10th Anniversary (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "kof10th.neo" size 92540928 crc B1EBAE6E )
+)
+game (
+	name "kf2k5uni"
+	description "The King of Fighters 10th Anniversary 2005 Unique (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "kf2k5uni.neo" size 92540928 crc 7230B2E9 )
+)
+game (
+	name "kf10thep"
+	description "The King of Fighters 10th Anniversary Extra Plus (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "kf10thep.neo" size 92540928 crc 6EEEE6BC )
+)
+game (
+	name "kof2000"
+	description "The King of Fighters 2000 (NGM-2570) (NGH-2570)"
+	publisher "SNK"
+	rom ( name "kof2000.neo" size 94113792 crc 39E509D4 )
+)
+game (
+	name "kof2000n"
+	cloneof "kof2000"
+	description "The King of Fighters 2000 (not encrypted)"
+	publisher "SNK"
+	rom ( name "kof2000n.neo" size 89919488 crc E5F0A167 )
+)
+game (
+	name "kof2001h"
+	cloneof "kof2001"
+	description "The King of Fighters 2001 (NGH-2621)"
+	publisher "Eolith / SNK"
+	rom ( name "kof2001h.neo" size 89526272 crc 9EBBB90A )
+)
+game (
+	name "kof2001"
+	description "The King of Fighters 2001 (NGM-262_)"
+	publisher "Eolith / SNK"
+	rom ( name "kof2001.neo" size 89526272 crc 01202E76 )
+)
+game (
+	name "kof2002b"
+	cloneof "kof2002"
+	description "The King of Fighters 2002 (bootleg)"
+	publisher "bootleg"
+	rom ( name "kof2002b.neo" size 89395200 crc 04845FD1 )
+)
+game (
+	name "kof2002"
+	description "The King of Fighters 2002 (NGM-2650)(NGH-2650)"
+	publisher "Eolith / Playmore"
+	rom ( name "kof2002.neo" size 89395200 crc 388CE6F9 )
+)
+game (
+	name "kf2k2mp"
+	description "The King of Fighters 2002 Magic Plus (bootleg)"
+	publisher "bootleg"
+	rom ( name "kf2k2mp.neo" size 92540928 crc DBE7F03C )
+)
+game (
+	name "kf2k2mp2"
+	cloneof "kf2k2mp"
+	description "The King of Fighters 2002 Magic Plus II (bootleg)"
+	publisher "bootleg"
+	rom ( name "kf2k2mp2.neo" size 90443776 crc 607E6A06 )
+)
+game (
+	name "kf2k2pls"
+	cloneof "kf2k2mp"
+	description "The King of Fighters 2002 Plus (bootleg set 1)"
+	publisher "bootleg"
+	rom ( name "kf2k2pls.neo" size 89395200 crc 8974E46D )
+)
+game (
+	name "kf2k2pla"
+	cloneof "kf2k2mp"
+	description "The King of Fighters 2002 Plus (bootleg set 2)"
+	publisher "bootleg"
+	rom ( name "kf2k2pla.neo" size 89395200 crc B5F1403F )
+)
+game (
+	name "kf2k3bl"
+	description "The King of Fighters 2003 (bootleg set 1) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "kf2k3bl.neo" size 91492352 crc F9A1C5CB )
+)
+game (
+	name "kf2k3bla"
+	cloneof "kf2k3bl"
+	description "The King of Fighters 2003 (bootleg set 2) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "kf2k3bla.neo" size 91492352 crc 4AF506BF )
+)
+game (
+	name "kof2003h"
+	cloneof "kof2003"
+	description "The King of Fighters 2003 (NGH-2710)"
+	publisher "SNK Playmore"
+	rom ( name "kof2003h.neo" size 94375936 crc CED0F3FA )
+)
+game (
+	name "kof2003"
+	description "The King of Fighters 2003 (NGM-2710, Export)"
+	publisher "SNK Playmore"
+	rom ( name "kof2003.neo" size 94375936 crc C5E8F3EE )
+)
+game (
+	name "kf2k3pl"
+	cloneof "kf2k3bl"
+	description "The King of Fighters 2004 Plus _ Hero (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "kf2k3pl.neo" size 91492352 crc 2EC1F4A3 )
+)
+game (
+	name "kf2k3upl"
+	cloneof "kf2k3bl"
+	description "The King of Fighters 2004 Ultra Plus (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "kf2k3upl.neo" size 92540928 crc E49B4A2F )
+)
+game (
+	name "kof2k4se"
+	description "The King of Fighters Special Edition 2004 (bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "kof2k4se.neo" size 89395200 crc 2DC44424 )
+)
+game (
+	name "lastbladh"
+	cloneof "lastblad"
+	description "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGH-2340)"
+	publisher "SNK"
+	rom ( name "lastbladh.neo" size 64229376 crc B2CE2DBB )
+)
+game (
+	name "lastblad"
+	description "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)"
+	publisher "SNK"
+	rom ( name "lastblad.neo" size 64229376 crc C1C6D0F0 )
+)
+game (
+	name "lastbld2"
+	description "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)"
+	publisher "SNK"
+	rom ( name "lastbld2.neo" size 72617984 crc 315305EE )
+)
+game (
+	name "lastsold"
+	cloneof "lastblad"
+	description "The Last Soldier (Korean release of The Last Blade)"
+	publisher "SNK"
+	rom ( name "lastsold.neo" size 64229376 crc E7F4E875 )
+)
+game (
+	name "superspy"
+	description "The Super Spy (NGM-011)(NGH-011)"
+	publisher "SNK"
+	rom ( name "superspy.neo" size 7344128 crc 9F7F80CF )
+)
+game (
+	name "ssideki4"
+	description "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero"
+	publisher "SNK"
+	rom ( name "ssideki4.neo" size 29626368 crc 574C4B4E )
+)
+game (
+	name "trally"
+	description "Thrash Rally (ALM-003)(ALH-003)"
+	publisher "Alpha Denshi Co."
+	rom ( name "trally.neo" size 6033408 crc AD8DC774 )
+)
+game (
+	name "tophuntrh"
+	cloneof "tophuntr"
+	description "Top Hunter - Roddy & Cathy (NGH-046)"
+	publisher "SNK"
+	rom ( name "tophuntrh.neo" size 14946304 crc 661180A9 )
+)
+game (
+	name "tophuntr"
+	description "Top Hunter - Roddy & Cathy (NGM-046)"
+	publisher "SNK"
+	rom ( name "tophuntr.neo" size 14946304 crc BC747B28 )
+)
+game (
+	name "tpgolf"
+	description "Top Player's Golf (NGM-003)(NGH-003)"
+	publisher "SNK"
+	rom ( name "tpgolf.neo" size 8130560 crc F4A8ABC6 )
+)
+game (
+	name "twinspri"
+	description "Twinkle Star Sprites"
+	publisher "ADK / SNK"
+	rom ( name "twinspri.neo" size 19140608 crc 192CCF78 )
+)
+game (
+	name "vliner53"
+	cloneof "vliner"
+	description "V-Liner (v0.53)"
+	publisher "Dyna / BrezzaSoft"
+	rom ( name "vliner53.neo" size 7540736 crc 94AA40BD )
+)
+game (
+	name "vliner54"
+	cloneof "vliner"
+	description "V-Liner (v0.54)"
+	publisher "Dyna / BrezzaSoft"
+	rom ( name "vliner54.neo" size 7540736 crc 6BC89CD6 )
+)
+game (
+	name "vliner6e"
+	cloneof "vliner"
+	description "V-Liner (v0.6e)"
+	publisher "Dyna / BrezzaSoft"
+	rom ( name "vliner6e.neo" size 7540736 crc A7BDDA97 )
+)
+game (
+	name "vliner"
+	description "V-Liner (v0.7a)"
+	publisher "Dyna / BrezzaSoft"
+	rom ( name "vliner.neo" size 7540736 crc 7C3C125A )
+)
+game (
+	name "vliner7e"
+	cloneof "vliner"
+	description "V-Liner (v0.7e)"
+	publisher "Dyna / BrezzaSoft"
+	rom ( name "vliner7e.neo" size 7540736 crc 013A7536 )
+)
+game (
+	name "viewpoinp"
+	cloneof "viewpoin"
+	description "Viewpoint (prototype)"
+	publisher "Sammy / Aicom"
+	rom ( name "viewpoinp.neo" size 9703424 crc 52867517 )
+)
+game (
+	name "viewpoin"
+	description "Viewpoint"
+	publisher "Sammy / Aicom"
+	rom ( name "viewpoin.neo" size 11800576 crc 110F9248 )
+)
+game (
+	name "gowcaizr"
+	description "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer"
+	publisher "Technos Japan"
+	rom ( name "gowcaizr.neo" size 24383488 crc 519B1BD4 )
+)
+game (
+	name "wakuwak7"
+	description "Waku Waku 7"
+	publisher "Sunsoft"
+	rom ( name "wakuwak7.neo" size 36966400 crc 81B7AD16 )
+)
+game (
+	name "wjammers"
+	description "Windjammers / Flying Power Disc"
+	publisher "Data East Corporation"
+	rom ( name "wjammers.neo" size 9703424 crc 342F7F79 )
+)
+game (
+	name "wh1h"
+	cloneof "wh1"
+	description "World Heroes (ALH-005)"
+	publisher "Alpha Denshi Co."
+	rom ( name "wh1h.neo" size 10752000 crc E65D03D1 )
+)
+game (
+	name "wh1"
+	description "World Heroes (ALM-005)"
+	publisher "Alpha Denshi Co."
+	rom ( name "wh1.neo" size 10752000 crc D864F492 )
+)
+game (
+	name "wh1ha"
+	cloneof "wh1"
+	description "World Heroes (set 3)"
+	publisher "Alpha Denshi Co."
+	rom ( name "wh1ha.neo" size 10752000 crc 9FF1ED75 )
+)
+game (
+	name "wh2h"
+	cloneof "wh2"
+	description "World Heroes 2 (ALH-006)"
+	publisher "ADK"
+	rom ( name "wh2h.neo" size 19140608 crc 20D3E23D )
+)
+game (
+	name "wh2"
+	description "World Heroes 2 (ALM-006)(ALH-006)"
+	publisher "ADK"
+	rom ( name "wh2.neo" size 19140608 crc 99E14FC1 )
+)
+game (
+	name "wh2j"
+	description "World Heroes 2 Jet (ADM-007)(ADH-007)"
+	publisher "ADK / SNK"
+	rom ( name "wh2j.neo" size 23334912 crc E1A45894 )
+)
+game (
+	name "whp"
+	description "World Heroes Perfect"
+	publisher "ADK / SNK"
+	rom ( name "whp.neo" size 38014976 crc 37858A01 )
+)
+game (
+	name "zedblade"
+	description "Zed Blade / Operation Ragnarok"
+	publisher "NMK"
+	rom ( name "zedblade.neo" size 14422016 crc 4CC9E910 )
+)
+game (
+	name "zintrckb"
+	description "Zintrick _ Oshidashi Zentrix (hack _ bootleg) [Bootleg]"
+	publisher "bootleg"
+	rom ( name "zintrckb.neo" size 7606272 crc 5CEA990F )
+)
+game (
+	name "zupapa"
+	description "Zupapa!"
+	publisher "SNK"
+	rom ( name "zupapa.neo" size 20189184 crc 6F323821 )
+)

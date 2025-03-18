@@ -85,7 +85,7 @@ def process_file(input_file, output_file):
 
 def main():
     if len(sys.argv) < 3:
-        print("Uso: python script.py archivo_entrada.dat archivo_salida.dat")
+        print("Uso: datRenameNeo.py archivo_entrada.dat archivo_salida.dat")
         sys.exit(1)
 
     input_file = sys.argv[1]
